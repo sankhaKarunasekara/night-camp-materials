@@ -11,7 +11,7 @@
 |10.15PM - 11.00PM | Telescopes* | Eranga Jayashantha|
 |11.00PM - 11.20PM | Sky Map| Sankha Karunasekara| 
 |11.30PM - 12.30PM | Group Discussion (Sky and the constellations) Out door session | ALL|
-|12.30PM - 02.00PM | Pazzel| Sankha Karuansekara & Samitha| 
+|12.30PM - 02.00PM | Puzzle| Sankha Karuansekara & Samitha| 
 |02.00PM - 02.45PM | Jupiter Observation|ALL|
 |02.45PM - 03.30PM | Activity (Rocketry) | Lahiru Sandaruwan & Chanuka & Trishan |
 |03.30PM - 06.00PM | Moon, Saturn, Venus Observation| ALL|
