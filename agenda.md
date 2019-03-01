@@ -2,7 +2,9 @@
 ### AGENDA
 (note: this is subject to change based on weather conditions and other factors) 
 
-| DURATION    | ACTIVITY              | PERSON RESPONSIBLE|  
+### from 2019/03/02 6.30PM to 2019/03/03 7.30AM
+    
+| TIME    | ACTIVITY              | PERSON RESPONSIBLE|  
 |-------------|-----------------------|-------------------|
 |06.30 - 07.00 |Opening Ceremony| School|
 |07.00 - 07.40 | Opening Lecture | Pulasthi Kanattage|
